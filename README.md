@@ -1,5 +1,4 @@
 # widget
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -44,4 +43,3 @@
     </div>
     <script src="https://img.plasbit.com/widget/js/crypto-price-ticker.js"></script>
 </body>
-</html>
