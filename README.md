@@ -30,12 +30,13 @@ font-family: 'Poppins', sans-serif;
 background-color: var(--background-color);
 color: var(--text-color);
 line-height: 1.6;
+margin-bottom: -250px;
 }
 
 .container {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 0;
+  margin-bottom: -200px;
   padding: 10px;
   box-sizing: border-box;
 }
