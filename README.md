@@ -30,7 +30,7 @@ font-family: 'Poppins', sans-serif;
 background-color: var(--background-color);
 color: var(--text-color);
 line-height: 1.6;
-margin-bottom: -50px;
+margin-bottom: -20px;
 }
 
 .container {
