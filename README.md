@@ -35,7 +35,7 @@ line-height: 1.6;
 .container {
   width: 100%;
   max-width: 100%;
-  margin: 0;
+  margin-bottom: 0;
   padding: 10px;
   box-sizing: border-box;
 }
